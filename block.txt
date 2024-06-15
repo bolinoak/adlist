@@ -1,0 +1,7 @@
+0.0.0.0 nhentai.net
+0.0.0.0 tsumino.com
+0.0.0.0 hanime.tv
+0.0.0.0 pornhub.com
+0.0.0.0 dlsite.com
+0.0.0.0 f95zone.to
+0.0.0.0 kaguragames.com
